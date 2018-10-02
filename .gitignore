@@ -1,0 +1,8 @@
+node_modules
+exercises-modules
+
+# ignore diff files
+*.diff
+
+# ignore wstorm files
+.idea/
